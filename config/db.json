@@ -13,7 +13,7 @@
   },
   "production": {
     "username": "timeoff",
-    "password": timeOff32!,
+    "password": "timeOff32!",
     "database": "timeoff",
     "host": "10.120.2.97",
     "dialect": "mysql"
